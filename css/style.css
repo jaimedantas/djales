@@ -1109,9 +1109,10 @@ textarea:focus {
 
 /* Responsive media queries
 ==================================================*/
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 667px) {
     .box-intro h5 {
         font-weight: lighter;
+        font-size: small;
     }
 
     .box-headline.rotate-2 .box-words-wrapper {
