@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a011f6b-e0a4-403d-b155-3e3aaecd32b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598733207939</updated>
-      <workItem from="1598733214872" duration="4474000" />
+      <workItem from="1598733214872" duration="4766000" />
     </task>
     <task id="LOCAL-00001" summary="new images">
       <created>1598736353514</created>
@@ -85,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598742085958</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spelling fix">
+      <created>1598742607807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598742607807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,18 +96,19 @@
     <MESSAGE value="new images" />
     <MESSAGE value="font size" />
     <MESSAGE value="added image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added image" />
+    <MESSAGE value="Spelling fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spelling fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1598742085766">
+    <state x="236" y="-745" key="CommitChangelistDialog2" timestamp="1598742607522">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1598742085766" />
+    <state x="236" y="-745" key="CommitChangelistDialog2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1598742607522" />
     <state x="236" y="-768" key="CommitChangelistDialog2/-41.-768.1366.768/0.0.1280.800@-41.-768.1366.768" timestamp="1598736638427" />
-    <state x="242" y="-625" key="Vcs.Push.Dialog.v2" timestamp="1598742087136">
+    <state x="242" y="-625" key="Vcs.Push.Dialog.v2" timestamp="1598742609605">
       <screen x="-41" y="-745" width="1366" height="745" />
     </state>
-    <state x="242" y="-625" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1598742087136" />
+    <state x="242" y="-625" key="Vcs.Push.Dialog.v2/-41.-745.1366.745/0.23.1280.777@-41.-745.1366.745" timestamp="1598742609605" />
     <state x="242" y="-644" key="Vcs.Push.Dialog.v2/-41.-768.1366.768/0.0.1280.800@-41.-768.1366.768" timestamp="1598736639929" />
     <state x="321" y="-552" key="com.intellij.ide.util.TipDialog" timestamp="1598733212581">
       <screen x="-41" y="-768" width="1366" height="768" />
