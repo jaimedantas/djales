@@ -558,8 +558,8 @@ b i:last-child {
 }
 
 .box-headline.rotate-2 .box-words-wrapper {
-    -webkit-perspective: 300px;
-    perspective: 300px;
+    -webkit-perspective: 200px;
+    perspective: 100px;
 }
 
 .box-headline.rotate-2 i,
@@ -1109,6 +1109,23 @@ textarea:focus {
 
 /* Responsive media queries
 ==================================================*/
+@media only screen and (max-width: 767px) {
+    .box-intro h5 {
+        font-weight: lighter;
+    }
+
+    .box-headline.rotate-2 .box-words-wrapper {
+        -webkit-perspective: 20px;
+        perspective: 10px;
+    }
+
+    .box-words-wrapper {
+        display: block;
+        position: center;
+    }
+
+}
+
 
 @media (max-width: 991px) {
     .portfolio .categories-grid span {
